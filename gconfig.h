@@ -19,6 +19,7 @@ public:
     int mNX = 256;                      // X方向网格化数目
     int mNY = 256;                      // Y方向网格化数目
     int mNZ = 128;                      // Z方向网格化数目
+
 };
 
 
